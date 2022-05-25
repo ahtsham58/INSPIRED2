@@ -1,6 +1,6 @@
 # INSPIRED2
 
-## ``Resource: An Improved Dataset for Sociable Conversational Recommendation :INSPIRED2''
+##  "Resource: An Improved Dataset for Sociable Conversational Recommendation :INSPIRED2"
 
 We have two main directories at the root level.
 
