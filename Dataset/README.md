@@ -12,9 +12,9 @@ Here we elaborate the meanings of all the features of the INSPIRED2 dataset.
 
 
 1.  `dialog_id`: unique dialog id for each conversation
-2 `utt_id`: unique utterance id for each utterance in a particular dialog
-3 `speaker`: role of the speaker, i.e., either a human-recommender or human-seeker
-4 `turn_id`: turn id for each human-recommender and seeker utterance pair
+2. `utt_id`: unique utterance id for each utterance in a particular dialog
+3. `speaker`: role of the speaker, i.e., either a human-recommender or human-seeker
+4. `turn_id`: turn id for each human-recommender and seeker utterance pair
 5 `text`: complete utterance without annotations 
 6 `text_with_placeholder`: complete utterance where the movie titles and meta-data entities (genre, actor's name, director's name, movie plot) have been replaced with 7  the corresponding placeholder. 
 8 `movies`: list of movie titles mentioned in a particular utterance
