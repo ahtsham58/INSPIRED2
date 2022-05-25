@@ -1,6 +1,6 @@
 # Results & User Study Data
 
-In this directory, we include the overall results for analyses reported in the manuscript. 
+In this directory, we include the overall results and data for the analyses reported in the manuscript. 
 
 1. The file named `Compiled Results.xlsx` includes the compiled results for various anlyses such as results of the user study, BLEU score, items and entities mentioned in the responses appeared in the data used for the user study.
 2. The file named `Details on CRS.docx` reports the details on two CRS, i.e., RB-CRS and CRB-CRS, used for the user study. Specifically, we provide the corresponding titles and links to the source-code repositories. 
