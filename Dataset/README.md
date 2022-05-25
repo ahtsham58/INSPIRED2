@@ -28,9 +28,9 @@ Here we elaborate the meanings of all the features of the INSPIRED2 dataset.
 16. `first_label`: main sociable strategy labelled explicitly
 17. `second_label`: this is the second strategy (optional)
 18. `fine_label`: a label that denotes for one of the five cases whether the seeker accepted or rejected the recommendation.
-	i. accept_rating_good: user accepted the recommendation and later rated the recommended movie with the score 4 or 5
-	ii. accept_rating_mod: user accepted the recommendation and later rated the recommended movie with the  score <= 3
-	iii. accept_uninterested: user accepted the recommendation, didn't finish watching the trailer, and later said that they found the trailer uninteresting
-	iv. accept_others: user gave various reasons for not finishing the trailer
-	v. reject: user rejected the recommendation
+	* accept_rating_good: user accepted the recommendation and later rated the recommended movie with the score 4 or 5
+	* accept_rating_mod: user accepted the recommendation and later rated the recommended movie with the  score <= 3
+	* accept_uninterested: user accepted the recommendation, didn't finish watching the trailer, and later said that they found the trailer uninteresting
+	* accept_others: user gave various reasons for not finishing the trailer
+	* reject: user rejected the recommendation
 19. `movie_id`: unique movie id recommended by the human-recommmender. for the trailer, replace "XXX" in this link https://www.youtube.com/watch?v=XXX with the movie id
