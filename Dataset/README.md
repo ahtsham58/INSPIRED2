@@ -8,7 +8,7 @@ Here we have two directories for two different formats of the dataset .
 Apart from two directories, a file named 'movie_database.tsv' includes movie titles and corresponding meta-data entities for items mentioned in the INSPIRED2 dataset.
 
 ## Dataset Features (columns)
-Here we elaborate the meanings of all the features of the INSPIRED2 dataset.
+We elaborate on the features of the INSPIRED2 dataset as follows.
 
 
 1.  `dialog_id`: unique dialog id for each conversation
