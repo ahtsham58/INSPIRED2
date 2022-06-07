@@ -8,7 +8,7 @@ Here we have two directories for two different formats of the dataset .
 Apart from two directories, a file named `movie_database.tsv` includes movie titles and corresponding meta-data entities for items mentioned in the INSPIRED2 dataset.
 
 ## Dataset Splitting Ratio
-Overall, the INSPIRED2 dataset contains 1,001 dialogs recorded between paired a human-recommender and a human-seeker. As per the original work, the dataset is splitted in 8:1:1 for three different sets, i.e., train, dev, and test, respectively.
+Overall, the INSPIRED2 dataset contains 1,001 dialogs recorded between paired human-recommender and a human-seeker. As per the original work, the dataset is splitted in 8:1:1 for three different sets, i.e., train, dev, and test, respectively.
 
 ## Dataset Features (columns)
 We elaborate on the features of the INSPIRED2 dataset as follows.
