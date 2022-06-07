@@ -20,7 +20,7 @@ We elaborate on the features of the INSPIRED2 dataset as follows.
 4. `turn_id`: turn id for each human-recommender and seeker utterance pair
 5. `text` or `utterance`: complete utterance without annotations
 6. `tokens` utterance is splitted into individual tokens (only in JSON data)  
-7. `text_with_placeholder`: complete utterance where the movie titles and meta-data entities (genre, actor's name, director's name, movie plot) have been replaced with 7.  the corresponding placeholder. 
+7. `text_with_placeholder`: complete utterance where the movie titles and meta-data entities (genre, actor's name, director's name, movie plot) have been replaced with 	 the corresponding placeholder. 
 8. `movies`: list of movie titles mentioned in a particular utterance
 9. `genres`: list of genres mentioned in a particular utterance
 10. `people_names`: list of people's like cast, actors, directors, etc., names mentioned in a particular utterance
