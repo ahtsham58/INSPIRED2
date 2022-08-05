@@ -9,3 +9,6 @@ In this directory, we include the overall results and data for the analyses repo
 5. The file named `Study Data RB-CRS.xlsx` provides the dialogs used for the user study, including RB-CRS responses and their corresponding ratings.
 6. Finally, the file named `fig-dialog.pdf` shows a piece of conversation used in our study. 'REC' denotes for response to a SEEKER utterance produced with a system.
 
+#Trick of the Day ![..](fig-dialog.pdf)
+
+![alt text](https://github.com/ahtsham58/INSPIRED2/blob/main/Results/fig-dialog.pdf/fig-dialog.pdf)
