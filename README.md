@@ -10,7 +10,7 @@ We have two main directories at the root level.
 
 ## **Citation**
 ```
-@article{manzoor2022inspired2,
+@InProceedings{manzoor2022inspired2,
   title={INSPIRED2: An Improved Dataset for Sociable Conversational Recommendation},
   author={Manzoor, Ahtsham and Jannach, Dietmar},
   booktitle={KaRS Workshop at RecSys '22},
